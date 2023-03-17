@@ -1,4 +1,4 @@
-# FightMan01 bot kezelőfelület
+# FightMan01 bot Dashboard
 
 ## ⏬ Letöltés
 
